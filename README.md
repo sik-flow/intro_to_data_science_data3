@@ -2,7 +2,12 @@
 
 1. [Foundations of Data and Python](https://colab.research.google.com/drive/12YCD4R6fvPKHUBZa6EzoIdJ5s79eToWJ?usp=sharing)
 
-
+- [KNN](https://colab.research.google.com/drive/11cnt2Ko4WKuX92K9cH6kI4Xig59yp7Cl?usp=sharing)
+- [Decision Tree](https://colab.research.google.com/drive/1U2kojikn298jUInhJIs78P3WaRbonNpP?usp=sharing)
+- [Ensemble Methods](https://colab.research.google.com/drive/1tad-5NLgnRJU6ILL60etlv_G8gMgdlYz?usp=sharing)
+- [ROC Curve](https://colab.research.google.com/drive/1O8ywQOQQ6e6nl7brl-1Px4dpbrbOaTrZ?usp=sharing)
+- [Intro to Classification Project](https://colab.research.google.com/drive/1epfy-XGnASKwKp70h_7sFRHZT0pW32xD?usp=sharing)
+- [Interpretability](https://colab.research.google.com/drive/1WNqKRzwliBWfGW7L4E27WFUvFtC4tZRD?usp=sharing)
 - [Cross Validation and Pipelines](https://colab.research.google.com/drive/1Ikeh8q879W7ZveTJaV-Dh7ck-neHmcvv?usp=sharing)
 - [Clustering](https://colab.research.google.com/drive/1Ac44E-FLdH9ifC-9ps74n2Yt8zbvE35g?usp=sharing)
 - [Dimensionality Reduction](https://colab.research.google.com/drive/1CDjDi0dB3Xl5MAZZwbHwhMW9aIOLDIdH?usp=sharing)
