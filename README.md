@@ -7,3 +7,4 @@
 
 
 [Facebook Prophet](https://colab.research.google.com/drive/1_iYiNDeGNLSJACwsIxHCMWnPqrsDnMUY?usp=sharing)
+[Time Series Forecasting with Machine Learning Models](https://colab.research.google.com/drive/1WSo9GYk4QYIJaFl0f6iL3lmv3GFm3YQl?usp=sharing)
