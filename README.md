@@ -31,3 +31,4 @@
 29. [ARIMA](https://colab.research.google.com/drive/1wNt9O6e4V5DVRBDFKGYC1QdaVeDJxaWq?usp=sharing)
 30. [Facebook Prophet](https://colab.research.google.com/drive/1_iYiNDeGNLSJACwsIxHCMWnPqrsDnMUY?usp=sharing)
 31. [Time Series Forecasting with Machine Learning Models](https://colab.research.google.com/drive/1WSo9GYk4QYIJaFl0f6iL3lmv3GFm3YQl?usp=sharing)
+32. [Forecasting Comparison](https://colab.research.google.com/drive/1PY_TmJPusW2MM0oLzBCRtX2R1cWdYyWQ?usp=sharing)
