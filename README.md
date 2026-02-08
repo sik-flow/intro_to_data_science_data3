@@ -33,3 +33,9 @@
 31. [Time Series Forecasting with Machine Learning Models](https://colab.research.google.com/drive/1WSo9GYk4QYIJaFl0f6iL3lmv3GFm3YQl?usp=sharing)
 32. [Forecasting Comparison](https://colab.research.google.com/drive/1PY_TmJPusW2MM0oLzBCRtX2R1cWdYyWQ?usp=sharing)
 33. [Time Series Project](https://colab.research.google.com/drive/1ab-_Nlr3jxDdTr7C6ad7I6e5Uh5sCY0Y?usp=sharing)
+34. [APIs](https://colab.research.google.com/drive/15xfT4FfRRlc3jxIlM9CLgzVqJpNjKLJ8?usp=sharing)
+35. [Webscraping](https://colab.research.google.com/drive/13b3w8k6-QqnhmG3SzgryePYQsRiUuTGI?usp=sharing)
+36. [Intro to Capstone](https://drive.google.com/file/d/1TC5D8ylbijoKt_9U9mps4i59yql__O0i/view?usp=sharing)
+37. [SQL Practice](https://colab.research.google.com/drive/1ZCmJb7mX0v4vf0uRPTaNbXgboIxU9MSc?usp=sharing)
+38. [NorthWind SQL Practice](https://colab.research.google.com/drive/1F8tuQyg9ljD-V4Iq_S1XKTZzcpKJOLNM?usp=sharing)
+
