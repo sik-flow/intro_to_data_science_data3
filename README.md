@@ -38,4 +38,9 @@
 36. [Intro to Capstone](https://drive.google.com/file/d/1TC5D8ylbijoKt_9U9mps4i59yql__O0i/view?usp=sharing)
 37. [SQL Practice](https://colab.research.google.com/drive/1ZCmJb7mX0v4vf0uRPTaNbXgboIxU9MSc?usp=sharing)
 38. [NorthWind SQL Practice](https://colab.research.google.com/drive/1F8tuQyg9ljD-V4Iq_S1XKTZzcpKJOLNM?usp=sharing)
+39. [Data Pipeline](https://colab.research.google.com/drive/16X67YyaC8dE0wmGOmCq0MOgdz8Xm0EU8?usp=sharing)
+40. [GitHub Tips](https://colab.research.google.com/drive/1CV--E2O-Gufxu_LSOHTL0KpUA2A8TiL-?usp=sharing)
+41. [Career Prep](https://colab.research.google.com/drive/1Ji1Iz6_9nIbAIorWXbVFTkDD18K5lHss?usp=sharing)
+42. [Intro to Deep learning](https://colab.research.google.com/drive/1Taf7itwq24s61wLHP_TCrJxbwnfm11J1?usp=sharing)
+43. [No GPU](https://colab.research.google.com/drive/1ZpcOjUZcrk5qbN5AqDteJ4f11S0Ul5PP?usp=sharing)
 
